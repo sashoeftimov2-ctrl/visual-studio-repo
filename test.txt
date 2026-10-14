@@ -1,2 +1,3 @@
 Tova e testov file
 Промяна от Копие 1 (Visual Studio).
+Промяна директно в GitHub (Remote).
